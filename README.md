@@ -38,5 +38,5 @@ pip install -r requirements.txt
 
 ## 📷 Preview
 
-![TaskBoard Dashboard](./images/LogIn.jpg)
-![TaskBoard Dashboard](./images/TaskBoard (2).JPG)
+![TaskBoard Dashboard](./LogIn.jpg)
+![TaskBoard Dashboard](./TaskBoard (2).JPG)
